@@ -18,16 +18,31 @@ figure {
 
 h1 {
     color:white;
+    font-family:'Inter', sans-serif;
+    font-weight:700;
 }
 
 h2 {
     color:white;
+    font-family:'Inter', sans-serif;
+    font-weight:700;
 }
 
 p {
     color:#e6e6e6;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight:400;
+    font-size:15px;
 }
 
 span {
     color:#aa5cdb;
+}
+
+.stats p {
+    text-transform:uppercase;
+}
+
+.attribution {
+    display:none;
 }
