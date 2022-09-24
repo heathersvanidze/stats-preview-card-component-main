@@ -8,6 +8,14 @@ main {
     background-color: #1b1938;
 }
 
+img {
+    opacity:0.5;
+}
+
+figure {
+    background-color: #aa5cdb;
+}
+
 h1 {
     color:white;
 }
@@ -18,4 +26,8 @@ h2 {
 
 p {
     color:#e6e6e6;
+}
+
+span {
+    color:#aa5cdb;
 }
