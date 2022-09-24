@@ -6,14 +6,27 @@ body {
 
 main {
     background-color: #1b1938;
+    width:375px;
+    margin:auto;
+    border-radius:5%;
+    text-align:center;
+}
+
+.text-component {
+    padding:15px;
 }
 
 img {
     opacity:0.5;
+    width:100%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
 }
 
 figure {
     background-color: #aa5cdb;
+    margin:0;
+    
 }
 
 h1 {
