@@ -71,7 +71,14 @@ span {
 
     figure {
         float:right;
+        width:50%;
     }
 
+    img {
+        border-top-left-radius:0;
+        border-bottom-right-radius:5%;
+    }
+
+  
 
 }
