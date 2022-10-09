@@ -101,7 +101,7 @@ li {
         flex-flow:row wrap;
         width:50%;
         text-align:left;
-        padding:30px 50px 30px 50px;
+        padding:30px 50px 10px 50px;
     }
 
     ul {
